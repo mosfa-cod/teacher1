@@ -1,0 +1,8 @@
+{
+  "name": "منصة المعلم المبدع",
+  "description": "منصة المعلم المبدع لصناعة الأفلام والقصص التعليمية التفاعلية بالذكاء الاصطناعي مع تقطيع الصور وتوليد الصوت والرسوم الكرتونية وبمكتبة دروس محلية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
